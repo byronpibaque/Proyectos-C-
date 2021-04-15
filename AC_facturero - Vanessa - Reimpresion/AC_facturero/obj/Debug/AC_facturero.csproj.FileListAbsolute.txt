@@ -1,0 +1,28 @@
+C:\Users\USUARIO\source\repos\AC_facturero\AC_facturero\bin\Debug\AC_facturero.exe.config
+C:\Users\USUARIO\source\repos\AC_facturero\AC_facturero\bin\Debug\AC_facturero.exe
+C:\Users\USUARIO\source\repos\AC_facturero\AC_facturero\bin\Debug\AC_facturero.pdb
+C:\Users\USUARIO\source\repos\AC_facturero\AC_facturero\obj\Debug\AC_facturero.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\AC_facturero\AC_facturero\obj\Debug\AC_facturero.exe
+C:\Users\USUARIO\source\repos\AC_facturero\AC_facturero\obj\Debug\AC_facturero.pdb
+C:\Users\USUARIO\source\repos\AC_facturero\AC_facturero\obj\Debug\AC_facturero.csproj.CoreCompileInputs.cache
+D:\Desarrollo\C#\c#\AC_facturero - Vanessa\AC_facturero\bin\Debug\AC_facturero.exe.config
+D:\Desarrollo\C#\c#\AC_facturero - Vanessa\AC_facturero\bin\Debug\AC_facturero.exe
+D:\Desarrollo\C#\c#\AC_facturero - Vanessa\AC_facturero\bin\Debug\AC_facturero.pdb
+D:\Desarrollo\C#\c#\AC_facturero - Vanessa\AC_facturero\obj\Debug\AC_facturero.csprojAssemblyReference.cache
+D:\Desarrollo\C#\c#\AC_facturero - Vanessa\AC_facturero\obj\Debug\AC_facturero.csproj.CoreCompileInputs.cache
+D:\Desarrollo\C#\c#\AC_facturero - Vanessa\AC_facturero\obj\Debug\AC_facturero.exe
+D:\Desarrollo\C#\c#\AC_facturero - Vanessa\AC_facturero\obj\Debug\AC_facturero.pdb
+D:\Desarrollo\C#\c#\AC_facturero - Vanessa - Reimpresion\AC_facturero\bin\Debug\AC_facturero.exe.config
+D:\Desarrollo\C#\c#\AC_facturero - Vanessa - Reimpresion\AC_facturero\bin\Debug\AC_facturero.exe
+D:\Desarrollo\C#\c#\AC_facturero - Vanessa - Reimpresion\AC_facturero\bin\Debug\AC_facturero.pdb
+D:\Desarrollo\C#\c#\AC_facturero - Vanessa - Reimpresion\AC_facturero\obj\Debug\AC_facturero.csprojAssemblyReference.cache
+D:\Desarrollo\C#\c#\AC_facturero - Vanessa - Reimpresion\AC_facturero\obj\Debug\AC_facturero.csproj.CoreCompileInputs.cache
+D:\Desarrollo\C#\c#\AC_facturero - Vanessa - Reimpresion\AC_facturero\obj\Debug\AC_facturero.exe
+D:\Desarrollo\C#\c#\AC_facturero - Vanessa - Reimpresion\AC_facturero\obj\Debug\AC_facturero.pdb
+Z:\C#\c#\AC_facturero - Vanessa - Reimpresion\AC_facturero\bin\Debug\AC_facturero.exe.config
+Z:\C#\c#\AC_facturero - Vanessa - Reimpresion\AC_facturero\bin\Debug\AC_facturero.exe
+Z:\C#\c#\AC_facturero - Vanessa - Reimpresion\AC_facturero\bin\Debug\AC_facturero.pdb
+Z:\C#\c#\AC_facturero - Vanessa - Reimpresion\AC_facturero\obj\Debug\AC_facturero.csprojAssemblyReference.cache
+Z:\C#\c#\AC_facturero - Vanessa - Reimpresion\AC_facturero\obj\Debug\AC_facturero.csproj.CoreCompileInputs.cache
+Z:\C#\c#\AC_facturero - Vanessa - Reimpresion\AC_facturero\obj\Debug\AC_facturero.exe
+Z:\C#\c#\AC_facturero - Vanessa - Reimpresion\AC_facturero\obj\Debug\AC_facturero.pdb

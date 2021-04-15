@@ -1,0 +1,28 @@
+C:\Users\USUARIO\source\repos\Firma_Autorizacion\Firma_Autorizacion\obj\Debug\Firma_Autorizacion.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\Firma_Autorizacion\Firma_Autorizacion\bin\Debug\Firma_Autorizacion.exe.config
+C:\Users\USUARIO\source\repos\Firma_Autorizacion\Firma_Autorizacion\bin\Debug\Firma_Autorizacion.exe
+C:\Users\USUARIO\source\repos\Firma_Autorizacion\Firma_Autorizacion\bin\Debug\Firma_Autorizacion.pdb
+C:\Users\USUARIO\source\repos\Firma_Autorizacion\Firma_Autorizacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\USUARIO\source\repos\Firma_Autorizacion\Firma_Autorizacion\bin\Debug\FirmaXadesNet.dll
+C:\Users\USUARIO\source\repos\Firma_Autorizacion\Firma_Autorizacion\bin\Debug\Microsoft.Xades.dll
+C:\Users\USUARIO\source\repos\Firma_Autorizacion\Firma_Autorizacion\bin\Debug\system.security.cryptography.xml.dll
+C:\Users\USUARIO\source\repos\Firma_Autorizacion\Firma_Autorizacion\obj\Debug\Firma_Autorizacion.csproj.CopyComplete
+C:\Users\USUARIO\source\repos\Firma_Autorizacion\Firma_Autorizacion\obj\Debug\Firma_Autorizacion.exe
+C:\Users\USUARIO\source\repos\Firma_Autorizacion\Firma_Autorizacion\obj\Debug\Firma_Autorizacion.pdb
+C:\Users\USUARIO\source\repos\Firma_Autorizacion\Firma_Autorizacion\obj\Debug\Firma_Autorizacion.csproj.CoreCompileInputs.cache
+D:\Desarrollo\C#\c#\Firma_Autorizacion - Diego\Firma_Autorizacion\bin\Debug\Firma_Autorizacion.exe.config
+D:\Desarrollo\C#\c#\Firma_Autorizacion - Diego\Firma_Autorizacion\bin\Debug\Firma_Autorizacion.exe
+D:\Desarrollo\C#\c#\Firma_Autorizacion - Diego\Firma_Autorizacion\bin\Debug\Firma_Autorizacion.pdb
+D:\Desarrollo\C#\c#\Firma_Autorizacion - Diego\Firma_Autorizacion\obj\Debug\Firma_Autorizacion.csprojAssemblyReference.cache
+D:\Desarrollo\C#\c#\Firma_Autorizacion - Diego\Firma_Autorizacion\obj\Debug\Firma_Autorizacion.csproj.CoreCompileInputs.cache
+D:\Desarrollo\C#\c#\Firma_Autorizacion - Diego\Firma_Autorizacion\obj\Debug\Firma_Autorizacion.csproj.CopyComplete
+D:\Desarrollo\C#\c#\Firma_Autorizacion - Diego\Firma_Autorizacion\obj\Debug\Firma_Autorizacion.exe
+D:\Desarrollo\C#\c#\Firma_Autorizacion - Diego\Firma_Autorizacion\obj\Debug\Firma_Autorizacion.pdb
+Z:\C#\c#\Firma_Autorizacion - Diego\Firma_Autorizacion\bin\Debug\Firma_Autorizacion.exe.config
+Z:\C#\c#\Firma_Autorizacion - Diego\Firma_Autorizacion\bin\Debug\Firma_Autorizacion.exe
+Z:\C#\c#\Firma_Autorizacion - Diego\Firma_Autorizacion\bin\Debug\Firma_Autorizacion.pdb
+Z:\C#\c#\Firma_Autorizacion - Diego\Firma_Autorizacion\obj\Debug\Firma_Autorizacion.csprojAssemblyReference.cache
+Z:\C#\c#\Firma_Autorizacion - Diego\Firma_Autorizacion\obj\Debug\Firma_Autorizacion.csproj.CoreCompileInputs.cache
+Z:\C#\c#\Firma_Autorizacion - Diego\Firma_Autorizacion\obj\Debug\Firma_Autorizacion.csproj.CopyComplete
+Z:\C#\c#\Firma_Autorizacion - Diego\Firma_Autorizacion\obj\Debug\Firma_Autorizacion.exe
+Z:\C#\c#\Firma_Autorizacion - Diego\Firma_Autorizacion\obj\Debug\Firma_Autorizacion.pdb

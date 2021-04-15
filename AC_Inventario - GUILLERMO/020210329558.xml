@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<inventario id="comprobante" version="1.0.0">
+  <encabezado>
+    <usuario>DEPENDIENTE</usuario>
+  </encabezado>
+  <detalles>
+    <detalle>
+      <precioUni>0.4</precioUni>
+      <iva>0</iva>
+      <estado>1</estado>
+      <_id>6048c8b3d2aa790015fe983b</_id>
+      <codigoBarras>7861073905844</codigoBarras>
+      <nombre>PARACETAMOL/CLORHIDRATO DE TRAMADOL X20COMP</nombre>
+      <nombreComercial>ZALDIAR  X20COMP</nombreComercial>
+      <stock>5</stock>
+      <fraccionesTotales>97</fraccionesTotales>
+      <fraccionCaja>20</fraccionCaja>
+      <fechaCaducidad>2022-05-01</fechaCaducidad>
+      <costoNeto>6.67</costoNeto>
+      <pvp>8</pvp>
+      <descuento>10</descuento>
+      <codigoCategoria>
+        <_id>5ee3a6c59e5cf43b30dbba41</_id>
+        <nombre>MEDICINA</nombre>
+      </codigoCategoria>
+      <codigoLaboratorio>
+        <_id>5f94525d0a5b580017f9e02e</_id>
+        <nombre>LAB.GRUNENTHA</nombre>
+        <abreviatura>GRTS</abreviatura>
+      </codigoLaboratorio>
+      <codigoPresentacion>
+        <_id>5ee7aa966865ec48c8f6bc02</_id>
+        <descripcion>TABLETAS</descripcion>
+      </codigoPresentacion>
+      <codigoInventario>
+        <_id>5eed2bedd61ed30bc473b887</_id>
+        <descripcion>I. Tu Ahorro#3</descripcion>
+      </codigoInventario>
+      <createdAt>2020-10-30T16:18:33.173Z</createdAt>
+      <__v>0</__v>
+    </detalle>
+    <detalle>
+      <precioUni>2.47</precioUni>
+      <iva>0</iva>
+      <estado>1</estado>
+      <_id>6048c8b3d2aa790015fe9cc3</_id>
+      <codigoBarras>7501043198875</codigoBarras>
+      <nombre>ABENDAZOL </nombre>
+      <nombreComercial>ZENTEL 4 %</nombreComercial>
+      <stock>2</stock>
+      <fraccionesTotales>2</fraccionesTotales>
+      <fraccionCaja>1</fraccionCaja>
+      <fechaCaducidad>2022-08-01</fechaCaducidad>
+      <costoNeto>2</costoNeto>
+      <pvp>2.47</pvp>
+      <descuento>10</descuento>
+      <codigoCategoria>
+        <_id>5ee3a6c59e5cf43b30dbba41</_id>
+        <nombre>MEDICINA</nombre>
+      </codigoCategoria>
+      <codigoLaboratorio>
+        <_id>5f9470460a5b580017f9e067</_id>
+        <nombre>GSK </nombre>
+        <abreviatura>GSK</abreviatura>
+      </codigoLaboratorio>
+      <codigoPresentacion>
+        <_id>5f9335410875730017189e11</_id>
+        <descripcion>GOTAS</descripcion>
+      </codigoPresentacion>
+      <codigoInventario>
+        <_id>5eed2bedd61ed30bc473b887</_id>
+        <descripcion>I. Tu Ahorro#3</descripcion>
+      </codigoInventario>
+      <createdAt>2021-01-31T15:57:42.735Z</createdAt>
+      <__v>0</__v>
+    </detalle>
+  </detalles>
+</inventario>

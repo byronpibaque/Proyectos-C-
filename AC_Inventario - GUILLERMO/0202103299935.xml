@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<inventario id="comprobante" version="1.0.0">
+  <encabezado>
+    <usuario>DEPENDIENTE</usuario>
+  </encabezado>
+  <detalles>
+    <detalle>
+      <precioUni>0.4</precioUni>
+      <iva>0</iva>
+      <estado>1</estado>
+      <_id>6048c8b3d2aa790015fe983b</_id>
+      <codigoBarras>7861073905844</codigoBarras>
+      <nombre>PARACETAMOL/CLORHIDRATO DE TRAMADOL X20COMP</nombre>
+      <nombreComercial>ZALDIAR  X20COMP</nombreComercial>
+      <stock>5</stock>
+      <fraccionesTotales>97</fraccionesTotales>
+      <fraccionCaja>20</fraccionCaja>
+      <fechaCaducidad>2022-05-01</fechaCaducidad>
+      <costoNeto>6.67</costoNeto>
+      <pvp>8</pvp>
+      <descuento>10</descuento>
+      <codigoCategoria>
+        <_id>5ee3a6c59e5cf43b30dbba41</_id>
+        <nombre>MEDICINA</nombre>
+      </codigoCategoria>
+      <codigoLaboratorio>
+        <_id>5f94525d0a5b580017f9e02e</_id>
+        <nombre>LAB.GRUNENTHA</nombre>
+        <abreviatura>GRTS</abreviatura>
+      </codigoLaboratorio>
+      <codigoPresentacion>
+        <_id>5ee7aa966865ec48c8f6bc02</_id>
+        <descripcion>TABLETAS</descripcion>
+      </codigoPresentacion>
+      <codigoInventario>
+        <_id>5eed2bedd61ed30bc473b887</_id>
+        <descripcion>I. Tu Ahorro#3</descripcion>
+      </codigoInventario>
+      <createdAt>2020-10-30T16:18:33.173Z</createdAt>
+      <__v>0</__v>
+    </detalle>
+    <detalle>
+      <precioUni>2.47</precioUni>
+      <iva>0</iva>
+      <estado>1</estado>
+      <_id>6048c8b3d2aa790015fe9cc3</_id>
+      <codigoBarras>7501043198875</codigoBarras>
+      <nombre>ABENDAZOL </nombre>
+      <nombreComercial>ZENTEL 4 %</nombreComercial>
+      <stock>2</stock>
+      <fraccionesTotales>2</fraccionesTotales>
+      <fraccionCaja>1</fraccionCaja>
+      <fechaCaducidad>2022-08-01</fechaCaducidad>
+      <costoNeto>2</costoNeto>
+      <pvp>2.47</pvp>
+      <descuento>10</descuento>
+      <codigoCategoria>
+        <_id>5ee3a6c59e5cf43b30dbba41</_id>
+        <nombre>MEDICINA</nombre>
+      </codigoCategoria>
+      <codigoLaboratorio>
+        <_id>5f9470460a5b580017f9e067</_id>
+        <nombre>GSK </nombre>
+        <abreviatura>GSK</abreviatura>
+      </codigoLaboratorio>
+      <codigoPresentacion>
+        <_id>5f9335410875730017189e11</_id>
+        <descripcion>GOTAS</descripcion>
+      </codigoPresentacion>
+      <codigoInventario>
+        <_id>5eed2bedd61ed30bc473b887</_id>
+        <descripcion>I. Tu Ahorro#3</descripcion>
+      </codigoInventario>
+      <createdAt>2021-01-31T15:57:42.735Z</createdAt>
+      <__v>0</__v>
+    </detalle>
+    <detalle>
+      <precioUni>0.81</precioUni>
+      <iva>0</iva>
+      <estado>1</estado>
+      <_id>604d0b92460cea0015269f94</_id>
+      <codigoBarras>7730969302817</codigoBarras>
+      <nombre>CITALOPRAM 20MG X30</nombre>
+      <nombreComercial>ZENTIUS</nombreComercial>
+      <stock>0</stock>
+      <fraccionesTotales>30</fraccionesTotales>
+      <fraccionCaja>30</fraccionCaja>
+      <fechaCaducidad>2022-10-01</fechaCaducidad>
+      <costoNeto>20.25</costoNeto>
+      <pvp>24.3</pvp>
+      <descuento>10</descuento>
+      <codigoCategoria>
+        <_id>5ee3a6c59e5cf43b30dbba41</_id>
+        <nombre>MEDICINA</nombre>
+      </codigoCategoria>
+      <codigoLaboratorio>
+        <_id>5f99bffc54538c0017a3c243</_id>
+        <nombre>LAB. ROEMMERS</nombre>
+        <abreviatura>ROMRS</abreviatura>
+      </codigoLaboratorio>
+      <codigoPresentacion>
+        <_id>60046f9531fe7b0017f8d2de</_id>
+        <descripcion>COMPRIMIDOS</descripcion>
+      </codigoPresentacion>
+      <codigoInventario>
+        <_id>5eed2bedd61ed30bc473b887</_id>
+        <descripcion>I. Tu Ahorro#3</descripcion>
+      </codigoInventario>
+      <createdAt>2021-03-13T18:59:30.403Z</createdAt>
+      <__v>0</__v>
+    </detalle>
+    <detalle>
+      <precioUni>0.39</precioUni>
+      <iva>0</iva>
+      <estado>1</estado>
+      <_id>6048c8b3d2aa790015fe9dab</_id>
+      <codigoBarras>8901790707341</codigoBarras>
+      <nombre>PARACETAMOL Y CLORHIDRATO DE TRAMADOL</nombre>
+      <nombreComercial>ZIGNET PLUS TAB X10</nombreComercial>
+      <stock>0</stock>
+      <fraccionesTotales>166</fraccionesTotales>
+      <fraccionCaja>10</fraccionCaja>
+      <fechaCaducidad>2021-07-01</fechaCaducidad>
+      <costoNeto>2</costoNeto>
+      <pvp>3.9</pvp>
+      <descuento>10</descuento>
+      <codigoCategoria>
+        <_id>5ee3a6c59e5cf43b30dbba41</_id>
+        <nombre>MEDICINA</nombre>
+      </codigoCategoria>
+      <codigoLaboratorio>
+        <_id>5f9ae004e56b240017075d57</_id>
+        <nombre>LAB. CAPLIN POINT</nombre>
+        <abreviatura>CP</abreviatura>
+      </codigoLaboratorio>
+      <codigoPresentacion>
+        <_id>5ee7aa966865ec48c8f6bc02</_id>
+        <descripcion>TABLETAS</descripcion>
+      </codigoPresentacion>
+      <codigoInventario>
+        <_id>5eed2bedd61ed30bc473b887</_id>
+        <descripcion>I. Tu Ahorro#3</descripcion>
+      </codigoInventario>
+      <createdAt>2021-03-02T20:58:13.119Z</createdAt>
+      <__v>0</__v>
+    </detalle>
+    <detalle>
+      <precioUni>8.5</precioUni>
+      <iva>0</iva>
+      <estado>1</estado>
+      <_id>6048c8b3d2aa790015fe9cc5</_id>
+      <codigoBarras>7702057012199</codigoBarras>
+      <nombre>SULFATO DE ZINC</nombre>
+      <nombreComercial>ZINKIDS</nombreComercial>
+      <stock>0</stock>
+      <fraccionesTotales>4</fraccionesTotales>
+      <fraccionCaja>1</fraccionCaja>
+      <fechaCaducidad>2022-09-01</fechaCaducidad>
+      <costoNeto>4.7</costoNeto>
+      <pvp>8.5</pvp>
+      <descuento>10</descuento>
+      <codigoCategoria>
+        <_id>5ee3a6c59e5cf43b30dbba41</_id>
+        <nombre>MEDICINA</nombre>
+      </codigoCategoria>
+      <codigoLaboratorio>
+        <_id>5f6b6c0ee12c520017b0c54b</_id>
+        <nombre>Laboratorio MK</nombre>
+        <abreviatura>MK</abreviatura>
+      </codigoLaboratorio>
+      <codigoPresentacion>
+        <_id>5eea59cda20320292cf3b063</_id>
+        <descripcion>JARABE</descripcion>
+      </codigoPresentacion>
+      <codigoInventario>
+        <_id>5eed2bedd61ed30bc473b887</_id>
+        <descripcion>I. Tu Ahorro#3</descripcion>
+      </codigoInventario>
+      <createdAt>2021-01-31T18:25:29.836Z</createdAt>
+      <__v>0</__v>
+    </detalle>
+    <detalle>
+      <precioUni>6.13</precioUni>
+      <iva>0</iva>
+      <estado>1</estado>
+      <_id>6048c8b3d2aa790015fe9d3e</_id>
+      <codigoBarras>7862108810034</codigoBarras>
+      <nombre>AZIROMICINA 200 MG / 5 ML</nombre>
+      <nombreComercial>ZITRIC</nombreComercial>
+      <stock>0</stock>
+      <fraccionesTotales>4</fraccionesTotales>
+      <fraccionCaja>1</fraccionCaja>
+      <fechaCaducidad>2022-07-01</fechaCaducidad>
+      <costoNeto>5</costoNeto>
+      <pvp>6.13</pvp>
+      <descuento>10</descuento>
+      <codigoCategoria>
+        <_id>5ee3a6c59e5cf43b30dbba41</_id>
+        <nombre>MEDICINA</nombre>
+      </codigoCategoria>
+      <codigoLaboratorio>
+        <_id>6004967dca6ffc0017994a78</_id>
+        <nombre>DANIVET </nombre>
+        <abreviatura>LAB </abreviatura>
+      </codigoLaboratorio>
+      <codigoPresentacion>
+        <_id>5f7faf6b2031fd0017d09346</_id>
+        <descripcion>Suspensión</descripcion>
+      </codigoPresentacion>
+      <codigoInventario>
+        <_id>5eed2bedd61ed30bc473b887</_id>
+        <descripcion>I. Tu Ahorro#3</descripcion>
+      </codigoInventario>
+      <createdAt>2021-02-21T19:35:40.769Z</createdAt>
+      <__v>0</__v>
+    </detalle>
+    <detalle>
+      <precioUni>0.19</precioUni>
+      <iva>0</iva>
+      <estado>1</estado>
+      <_id>6048c8b3d2aa790015fe9ad0</_id>
+      <codigoBarras>7702057070458</codigoBarras>
+      <nombre>ZOPICLONA 7.5MG X10TAB</nombre>
+      <nombreComercial>ZOPICLONA 7.5MG X10TAB</nombreComercial>
+      <stock>0</stock>
+      <fraccionesTotales>101</fraccionesTotales>
+      <fraccionCaja>10</fraccionCaja>
+      <fechaCaducidad>2022-09-01</fechaCaducidad>
+      <costoNeto>1.22</costoNeto>
+      <pvp>1.92</pvp>
+      <descuento>10</descuento>
+      <codigoCategoria>
+        <_id>5ee3a6c59e5cf43b30dbba41</_id>
+        <nombre>MEDICINA</nombre>
+      </codigoCategoria>
+      <codigoLaboratorio>
+        <_id>5f6b6c0ee12c520017b0c54b</_id>
+        <nombre>Laboratorio MK</nombre>
+        <abreviatura>MK</abreviatura>
+      </codigoLaboratorio>
+      <codigoPresentacion>
+        <_id>5ee7aa966865ec48c8f6bc02</_id>
+        <descripcion>TABLETAS</descripcion>
+      </codigoPresentacion>
+      <codigoInventario>
+        <_id>5eed2bedd61ed30bc473b887</_id>
+        <descripcion>I. Tu Ahorro#3</descripcion>
+      </codigoInventario>
+      <createdAt>2020-11-28T02:26:44.451Z</createdAt>
+      <__v>0</__v>
+    </detalle>
+    <detalle>
+      <precioUni>3.8</precioUni>
+      <iva>0</iva>
+      <estado>1</estado>
+      <_id>6048c8b3d2aa790015fe9daf</_id>
+      <codigoBarras>7861155903324</codigoBarras>
+      <nombre>VALACICLOVIR 1G </nombre>
+      <nombreComercial>ZOSVIR 1G TAB X7 </nombreComercial>
+      <stock>0</stock>
+      <fraccionesTotales>35</fraccionesTotales>
+      <fraccionCaja>7</fraccionCaja>
+      <fechaCaducidad>2021-09-01</fechaCaducidad>
+      <costoNeto>25</costoNeto>
+      <pvp>26.6</pvp>
+      <descuento>25</descuento>
+      <codigoCategoria>
+        <_id>5ee3a6c59e5cf43b30dbba41</_id>
+        <nombre>MEDICINA</nombre>
+      </codigoCategoria>
+      <codigoLaboratorio>
+        <_id>5ee3a6e59e5cf43b30dbba42</_id>
+        <abreviatura>RC</abreviatura>
+        <nombre>Laboratorio Rocnarf</nombre>
+      </codigoLaboratorio>
+      <codigoPresentacion>
+        <_id>5ee7aa966865ec48c8f6bc02</_id>
+        <descripcion>TABLETAS</descripcion>
+      </codigoPresentacion>
+      <codigoInventario>
+        <_id>5eed2bedd61ed30bc473b887</_id>
+        <descripcion>I. Tu Ahorro#3</descripcion>
+      </codigoInventario>
+      <createdAt>2021-03-02T21:03:33.887Z</createdAt>
+      <__v>0</__v>
+    </detalle>
+    <detalle>
+      <precioUni>2.25</precioUni>
+      <iva>0</iva>
+      <estado>1</estado>
+      <_id>6048c8b3d2aa790015fe9dad</_id>
+      <codigoBarras>7861155903317</codigoBarras>
+      <nombre>VALACICLOVIR 500MG </nombre>
+      <nombreComercial>ZOSVIR 500MG TAB X14</nombreComercial>
+      <stock>0</stock>
+      <fraccionesTotales>68</fraccionesTotales>
+      <fraccionCaja>14</fraccionCaja>
+      <fechaCaducidad>2021-12-01</fechaCaducidad>
+      <costoNeto>30</costoNeto>
+      <pvp>31.5</pvp>
+      <descuento>25</descuento>
+      <codigoCategoria>
+        <_id>5ee3a6c59e5cf43b30dbba41</_id>
+        <nombre>MEDICINA</nombre>
+      </codigoCategoria>
+      <codigoLaboratorio>
+        <_id>5ee3a6e59e5cf43b30dbba42</_id>
+        <abreviatura>RC</abreviatura>
+        <nombre>Laboratorio Rocnarf</nombre>
+      </codigoLaboratorio>
+      <codigoPresentacion>
+        <_id>5ee7aa966865ec48c8f6bc02</_id>
+        <descripcion>TABLETAS</descripcion>
+      </codigoPresentacion>
+      <codigoInventario>
+        <_id>5eed2bedd61ed30bc473b887</_id>
+        <descripcion>I. Tu Ahorro#3</descripcion>
+      </codigoInventario>
+      <createdAt>2021-03-02T21:01:24.612Z</createdAt>
+      <__v>0</__v>
+    </detalle>
+    <detalle>
+      <precioUni>18.84</precioUni>
+      <iva>1</iva>
+      <estado>1</estado>
+      <_id>6048c8b3d2aa790015fe9f6c</_id>
+      <codigoBarras>7703281008316</codigoBarras>
+      <nombre>ADAPALENO 0.1%</nombre>
+      <nombreComercial>ZUDENINA GEL</nombreComercial>
+      <stock>0</stock>
+      <fraccionesTotales>1</fraccionesTotales>
+      <fraccionCaja>1</fraccionCaja>
+      <fechaCaducidad>2024-12-01</fechaCaducidad>
+      <costoNeto>11.22</costoNeto>
+      <pvp>18.84</pvp>
+      <descuento>10</descuento>
+      <codigoCategoria>
+        <_id>5ee7a3cc6865ec48c8f6bc00</_id>
+        <nombre>BAZAR</nombre>
+      </codigoCategoria>
+      <codigoLaboratorio>
+        <_id>5fa043d18fcbfa00176e6793</_id>
+        <nombre>LAB.MEDHIEALTH</nombre>
+        <abreviatura>MDH</abreviatura>
+      </codigoLaboratorio>
+      <codigoPresentacion>
+        <_id>5f97335312332200177e8791</_id>
+        <descripcion>GEL</descripcion>
+      </codigoPresentacion>
+      <codigoInventario>
+        <_id>5eed2bedd61ed30bc473b887</_id>
+        <descripcion>I. Tu Ahorro#3</descripcion>
+      </codigoInventario>
+      <createdAt>2021-03-05T21:28:16.261Z</createdAt>
+      <__v>0</__v>
+    </detalle>
+    <detalle>
+      <precioUni>19.2</precioUni>
+      <iva>0</iva>
+      <estado>1</estado>
+      <_id>6048c8b3d2aa790015fe98be</_id>
+      <codigoBarras>7703281000280</codigoBarras>
+      <nombre>ZUDENINA PLUS GEL 30G</nombre>
+      <nombreComercial>ZUDENINA PLUS GEL 30G</nombreComercial>
+      <stock>0</stock>
+      <fraccionesTotales>2</fraccionesTotales>
+      <fraccionCaja>1</fraccionCaja>
+      <fechaCaducidad>2022-04-01</fechaCaducidad>
+      <costoNeto>11.42</costoNeto>
+      <pvp>19.2</pvp>
+      <descuento>5</descuento>
+      <codigoCategoria>
+        <_id>5ee3a6c59e5cf43b30dbba41</_id>
+        <nombre>MEDICINA</nombre>
+      </codigoCategoria>
+      <codigoLaboratorio>
+        <_id>5f97054712332200177e8776</_id>
+        <nombre>LAB. VARIOS</nombre>
+        <abreviatura>VAR</abreviatura>
+      </codigoLaboratorio>
+      <codigoPresentacion>
+        <_id>5f97335312332200177e8791</_id>
+        <descripcion>GEL</descripcion>
+      </codigoPresentacion>
+      <codigoInventario>
+        <_id>5eed2bedd61ed30bc473b887</_id>
+        <descripcion>I. Tu Ahorro#3</descripcion>
+      </codigoInventario>
+      <createdAt>2020-11-01T18:40:21.877Z</createdAt>
+      <__v>0</__v>
+    </detalle>
+    <detalle>
+      <precioUni>0.42</precioUni>
+      <iva>0</iva>
+      <estado>1</estado>
+      <_id>6048c8b3d2aa790015fe9d16</_id>
+      <codigoBarras>7441026001955</codigoBarras>
+      <nombre>ZYRTEC</nombre>
+      <nombreComercial>ZYRTEC  10 MG</nombreComercial>
+      <stock>0</stock>
+      <fraccionesTotales>30</fraccionesTotales>
+      <fraccionCaja>20</fraccionCaja>
+      <fechaCaducidad>2022-08-01</fechaCaducidad>
+      <costoNeto>7</costoNeto>
+      <pvp>8.4</pvp>
+      <descuento>10</descuento>
+      <codigoCategoria>
+        <_id>5ee3a6c59e5cf43b30dbba41</_id>
+        <nombre>MEDICINA</nombre>
+      </codigoCategoria>
+      <codigoLaboratorio>
+        <_id>5f9470460a5b580017f9e067</_id>
+        <nombre>GSK </nombre>
+        <abreviatura>GSK</abreviatura>
+      </codigoLaboratorio>
+      <codigoPresentacion>
+        <_id>5ee7aa966865ec48c8f6bc02</_id>
+        <descripcion>TABLETAS</descripcion>
+      </codigoPresentacion>
+      <codigoInventario>
+        <_id>5eed2bedd61ed30bc473b887</_id>
+        <descripcion>I. Tu Ahorro#3</descripcion>
+      </codigoInventario>
+      <createdAt>2021-02-14T21:15:48.622Z</createdAt>
+      <__v>0</__v>
+    </detalle>
+  </detalles>
+</inventario>
