@@ -10,22 +10,10 @@ namespace Firma_Autorizacion
         public static bool VerificarConexion()
         {
             return true;
-            try
-            {
-                using (var client = new WebClient())
-                using (client.OpenRead("http://clients3.google.com/generate_204"))
-                {
-                    return true;
-                }
-            }
-            catch
-            {
-                return false;
-            }
         }
 
         public Boolean getGenerarXmlAutorizado(String estad, String numerAutorizacio,
-            String fechAutorizacio, String ambient, String comprobant, String ruta)
+            String fechAutorizacio, String ambient, String comprobant, String mensaje, String ide,String tipo, String infoAd,String ruta)
         {
             try
             {
@@ -58,6 +46,22 @@ namespace Firma_Autorizacion
                 comprobante.AppendChild(doc.CreateCDataSection(comprobant));
                 autorizacion.AppendChild(comprobante);
 
+                XmlElement msj = doc.CreateElement(string.Empty, "mensaje", string.Empty);
+                msj.AppendChild(doc.CreateCDataSection(mensaje));
+                autorizacion.AppendChild(msj);
+
+                XmlElement tip = doc.CreateElement(string.Empty, "tipo", string.Empty);
+                tip.AppendChild(doc.CreateCDataSection(tipo));
+                autorizacion.AppendChild(tip);
+
+                XmlElement ident = doc.CreateElement(string.Empty, "identificador", string.Empty);
+                ident.AppendChild(doc.CreateCDataSection(ide));
+                autorizacion.AppendChild(ident);
+
+                XmlElement info_ad = doc.CreateElement(string.Empty, "info_ad", string.Empty);
+                info_ad.AppendChild(doc.CreateCDataSection(infoAd));
+                autorizacion.AppendChild(info_ad);
+
                 doc.Save(ruta);
                 return true;
             }
@@ -66,7 +70,64 @@ namespace Firma_Autorizacion
                 return false;
             }
         }
+        public Boolean getGenerarXmlNoAutorizado(String estad, String numerAutorizacio,
+            String fechAutorizacio, String ambient, String comprobant, String mensaje, String ide, String tipo, String infoAd, String ruta)
+        {
+            try
+            {
+                XmlDocument doc = new XmlDocument();
+                doc.PreserveWhitespace = false;
+                XmlDeclaration xmlDeclaration = doc.CreateXmlDeclaration("1.0", "UTF-8", null);
+                XmlElement root = doc.DocumentElement;
 
+                doc.InsertBefore(xmlDeclaration, root);
+                XmlElement autorizacion = doc.CreateElement(string.Empty, "autorizacion", string.Empty);
+                doc.AppendChild(autorizacion);
+
+                XmlElement estado = doc.CreateElement(string.Empty, "estado", string.Empty);
+                estado.AppendChild(doc.CreateTextNode(estad));
+                autorizacion.AppendChild(estado);
+
+                XmlElement numeroAutorizacion = doc.CreateElement(string.Empty, "numeroAutorizacion", string.Empty);
+                numeroAutorizacion.AppendChild(doc.CreateTextNode(numerAutorizacio));
+                autorizacion.AppendChild(numeroAutorizacion);
+
+                XmlElement fechaAutorizacion = doc.CreateElement(string.Empty, "fechaAutorizacion", string.Empty);
+                fechaAutorizacion.AppendChild(doc.CreateTextNode(fechAutorizacio));
+                autorizacion.AppendChild(fechaAutorizacion);
+
+                XmlElement ambiente = doc.CreateElement(string.Empty, "ambiente", string.Empty);
+                ambiente.AppendChild(doc.CreateTextNode(ambient));
+                autorizacion.AppendChild(ambiente);
+
+                XmlElement comprobante = doc.CreateElement(string.Empty, "comprobante", string.Empty);
+                comprobante.AppendChild(doc.CreateCDataSection(comprobant));
+                autorizacion.AppendChild(comprobante);
+
+                XmlElement msj = doc.CreateElement(string.Empty, "mensaje", string.Empty);
+                msj.AppendChild(doc.CreateCDataSection(mensaje));
+                autorizacion.AppendChild(msj);
+
+                XmlElement tip = doc.CreateElement(string.Empty, "tipo", string.Empty);
+                tip.AppendChild(doc.CreateCDataSection(tipo));
+                autorizacion.AppendChild(tip);
+
+                XmlElement ident = doc.CreateElement(string.Empty, "identificador", string.Empty);
+                ident.AppendChild(doc.CreateCDataSection(ide));
+                autorizacion.AppendChild(ident);
+
+                XmlElement info_ad = doc.CreateElement(string.Empty, "info_ad", string.Empty);
+                info_ad.AppendChild(doc.CreateCDataSection(infoAd));
+                autorizacion.AppendChild(info_ad);
+
+                doc.Save(ruta);
+                return true;
+            }
+            catch (Exception ex)
+            {
+                return false;
+            }
+        }
         public Boolean getGenerarXmlDevuelto(String xml, String estad, String claveAcces, String identificado, String mensaje_1, String tip, String ruta)
 
         {

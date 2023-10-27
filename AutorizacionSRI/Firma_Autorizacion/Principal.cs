@@ -14,7 +14,7 @@ namespace Firma_Autorizacion
         Consultar cons = new Consultar();
         GenerarXML generar = new GenerarXML();
 
-        public String TestPrueba(String rutafirma, String rutaxml, String rutaDevuelto, String rutaAutorizados, String cor, String clavefirma)
+        public String TestPrueba(String rutafirma, String rutaxml, String rutaDevuelto, String rutaAutorizados, String rutaNoAutorizados, String cor, String clavefirma)
         {
             String retorno = null;
 
@@ -25,6 +25,7 @@ namespace Firma_Autorizacion
                 {
                     String clave = Obtenerclaveacceso(rutaxml);
                     String estado = responseE.estado;
+
                     if (estado == "DEVUELTA")
                     {
                         String identificadorD = "";
@@ -63,7 +64,8 @@ namespace Firma_Autorizacion
                         String tipoR = "";
                         String mensaje1R = "";
                         String rutaAutorizad = rutaAutorizados + clave + ".xml";
-                        
+                        String rutaNoAutorizad = rutaNoAutorizados + clave + "NO_AUTORIZADO.xml";
+
                         Autorizacion.respuestaComprobante responseA = cons.ConsultarComprobante(clave);
                         var autorizaciones = responseA.autorizaciones.ToList();
                         foreach (Autorizacion.autorizacion autorizar in autorizaciones)
@@ -82,17 +84,28 @@ namespace Firma_Autorizacion
                                 mensaje1R += mesaj.mensaje1;
                             }
                         }
-                        Boolean generoxml = generar.getGenerarXmlAutorizado(estadoR, numeroAutoR, fechaAutoR, ambienteR, comprobanteR, rutaAutorizad);
-                        if (generoxml)
+                        if (estadoR == "AUTORIZADO")
                         {
-                            retorno = "OK";
+                            Boolean generoxml = generar.getGenerarXmlAutorizado(estadoR, numeroAutoR, fechaAutoR, ambienteR, comprobanteR, mensaje1R, identificadorR, tipoR, infomacionAdicionalR, rutaAutorizad);
+                            if (generoxml)
+                            {
+                                retorno = "OK";
+                            }
                         }
-                       
+                        else if (estadoR =="NO AUTORIZADO")
+                        {
+                            Boolean generoxml = generar.getGenerarXmlNoAutorizado(estadoR, numeroAutoR, fechaAutoR, ambienteR, comprobanteR, mensaje1R, identificadorR, tipoR, infomacionAdicionalR, rutaNoAutorizad);
+                            if (generoxml)
+                            {
+                                retorno = "ERROR: COMPROBANTE NO AUTORIZADO";
+                            }
+                        }
+
                     }
                 }
                 else
                 {
-                    retorno = "No tenemos acceso al servidor, Reintente más tarde";
+                    retorno = "Error: No se encontro respuesta desde el SRI.";
                 }
 
             }

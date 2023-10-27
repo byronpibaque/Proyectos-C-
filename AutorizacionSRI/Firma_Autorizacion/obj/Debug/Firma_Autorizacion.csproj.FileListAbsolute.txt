@@ -27,3 +27,11 @@ C:\Users\pv\Documents\GitHub\Proyectos-C-\AutorizacionSRI\Firma_Autorizacion\obj
 C:\Users\pv\Documents\GitHub\Proyectos-C-\AutorizacionSRI\Firma_Autorizacion\obj\Debug\Firma_Autorizacion.csproj.CopyComplete
 C:\Users\pv\Documents\GitHub\Proyectos-C-\AutorizacionSRI\Firma_Autorizacion\obj\Debug\Firma_Autorizacion.exe
 C:\Users\pv\Documents\GitHub\Proyectos-C-\AutorizacionSRI\Firma_Autorizacion\obj\Debug\Firma_Autorizacion.pdb
+\\Mac\Home\Documents\GitHub\Proyectos-C-\AutorizacionSRI\Firma_Autorizacion\bin\Debug\Firma_Autorizacion.exe.config
+\\Mac\Home\Documents\GitHub\Proyectos-C-\AutorizacionSRI\Firma_Autorizacion\bin\Debug\Firma_Autorizacion.exe
+\\Mac\Home\Documents\GitHub\Proyectos-C-\AutorizacionSRI\Firma_Autorizacion\bin\Debug\Firma_Autorizacion.pdb
+\\Mac\Home\Documents\GitHub\Proyectos-C-\AutorizacionSRI\Firma_Autorizacion\obj\Debug\Firma_Autorizacion.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\GitHub\Proyectos-C-\AutorizacionSRI\Firma_Autorizacion\obj\Debug\Firma_Autorizacion.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\Proyectos-C-\AutorizacionSRI\Firma_Autorizacion\obj\Debug\Firma_Autorizacion.csproj.CopyComplete
+\\Mac\Home\Documents\GitHub\Proyectos-C-\AutorizacionSRI\Firma_Autorizacion\obj\Debug\Firma_Autorizacion.exe
+\\Mac\Home\Documents\GitHub\Proyectos-C-\AutorizacionSRI\Firma_Autorizacion\obj\Debug\Firma_Autorizacion.pdb
