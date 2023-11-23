@@ -9,9 +9,9 @@ namespace Firma_Autorizacion
 
          
             String rutaxml = args[0];
-            String rutafirma = args[1];//"D:\\SRI\\Firma\\nelson_guillermo_morales_varas.p12";
-            String rutadevu = args[2];//"D:\\SRI\\Devueltos\\";
-            String rutaauto = args[3];//"D:\\SRI\\Autorizados\\";
+            String rutafirma = args[1];
+            String rutadevu = args[2];
+            String rutaauto = args[3];
             String clavefirma = args[4];
             String rutanoauto = args[5];
 
